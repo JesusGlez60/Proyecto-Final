@@ -30,15 +30,16 @@ inteligencia artificial para la fermentación y mezclas precisas haciendo
 que con cada generación se acerque a la cerveza perfecta y de bajo costo
 que solo un grupo de 100 expertos podrían conseguir una vez en la vida.
 
-  ---------------------------------------------------------------------------
-   Industria   Industria 2.0       Industria 3.0            Industria 4.0
-      1.0                                               
-  ------------ ------------- -------------------------- ---------------------
-   Maquinaria   Mezcladoras   Automatización basado en  Internet de las cosas
-   basada en   eléctricas de   controladores lógicos     (IoT) y computación
-     vapor         cobre         programables (PLC)          en la nube
+  -----------------------------------------------------------------------------
+   \> Industria  \> Industria       \> Industria 3.0        \> Industria 4.0
+       1.0            2.0                                 
+  -------------- ------------- -------------------------- ---------------------
+   \>Maquinaria       \>        \> Automatización basado   \> Internet de las
+    basada en     Mezcladoras   en controladores lógicos      cosas (IoT) y
+      vapor      eléctricas de     programables (PLC)       computación en la
+                     cobre                                        nube
 
-  ---------------------------------------------------------------------------
+  -----------------------------------------------------------------------------
 
 ## Antecedentes
 
