@@ -1,7 +1,3 @@
----
-bibliography: referencias.bib
----
-
 # Instituto Tecnológico de Tijuana
 
 # Sistemas Programables
@@ -136,3 +132,38 @@ competentes.
 ![Producto final](/assets/linea.jpg)
 
 ## Referencias
+
+*Asensio, Y., Llorente, M., Fernández, P., Tejedor-Sanz, S., Ortiz, J.
+M., Ciriza, J. F., Monsalvo, V., Rogalla, F., & Esteve-Núñez, A. (2021).
+Upgrading fluidized bed bioelectrochemical reactors for treating brewery
+wastewater by using a fluid-like electrode. Chemical Engineering
+Journal, 406, 127103. <https://doi.org/10.1016/j.cej.2020.127103>*
+
+Brewing Industry 4.0. (s. f.). LinkedIn. Recuperado 25 de junio de 2021,
+de <https://www.linkedin.com/pulse/brewing-industry-40-ankur-napa>
+
+Diniz, D., Carvalho, M., & Abrahão, R. (2020). Greenhouse gas accounting
+for the energy transition in a brewery. Environmental Progress &
+Sustainable Energy, 40(2). <https://doi.org/10.1002/ep.13563>
+
+Espinoza-Quiñones, F. R., Dall'Oglio, I. C., de Pauli, A. R., Romani,
+M., Módenes, A. N., & Trigueros, D. E. G. (2021). Insights into brewery
+wastewater treatment by the electro-Fenton hybrid process: How to get a
+significant decrease in organic matter and toxicity. Chemosphere, 263,
+128367. <https://doi.org/10.1016/j.chemosphere.2020.128367>
+
+Gunes, B., Carrié, M., Benyounis, K., Stokes, J., Davis, P., Connolly,
+C., & Lawler, J. (2020). Optimisation and Modelling of Anaerobic
+Digestion of Whiskey Distillery/Brewery Wastes after Combined Chemical
+and Mechanical Pre-Treatment. Processes, 8(4), 492.
+<https://doi.org/10.3390/pr8040492>
+
+Industry 4.0 reduces beer going down the drain at craft brewery. (s.
+f.). Institution of Mechanical Engineers. Recuperado 25 de junio de
+2021, de
+<https://www.imeche.org/news/news-article/industry-4.0-reduces-beer-going-down-the-drain-at-craft-brewery>
+
+Jatto, E., Asia, I., Egharevba, F., & Ewansiha, C. (2020). Kinetics
+studies of the treatment of wastewater from brewery industry, using
+powdered snail shell. Water-Energy Nexus, 3, 95--102.
+[https://doi.org/10.1016/j.wen.2020.06.001](https://doi.org/10.1016/j.wen.2020.06.00)
