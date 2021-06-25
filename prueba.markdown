@@ -36,12 +36,11 @@ ejemplo tenemos a la revista *Chemical Engineering Journal* la cual
 destaco un articulo sobre la actualización de reactores
 bioelectroquímicos de lecho fluidizado para el tratamient de las aguas
 residuales de las cervecerias mediante el uso de un electrodo similar a
-un fluido [1](https://doi.org/10.1016/j.cej.2020.127103), por otro lado
-un articulo de *Environmental progress & sustainable energy* se enfoca
-mas en la parte negativa citando a los gases de invernadero como los
-principales problemas de la transicion de energia en las cerveceras y el
-impacto negativo que tienen estas en el ambiente
-[2](https://doi.org/10.1002/ep.13563.).
+un fluido \[\^Nota\], por otro lado un articulo de *Environmental
+progress & sustainable energy* se enfoca mas en la parte negativa
+citando a los gases de invernadero como los principales problemas de la
+transicion de energia en las cerveceras y el impacto negativo que tienen
+estas en el ambiente \[\^Nota\].
 
 Como podemos ver el principal enfoque que tienen las compañias es en el
 ambiente quimico y ambiental por que ademas de estos podemos encontrar
@@ -100,4 +99,4 @@ una limpieza mas efectiva, lo cual requeriria menos tiempo y
 potencialmente salvar el producto que podia haber sido contaminado por
 instrumentos mal tratados.
 
-## 
+## El futuro de
