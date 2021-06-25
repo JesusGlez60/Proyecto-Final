@@ -30,6 +30,16 @@ inteligencia artificial para la fermentación y mezclas precisas haciendo
 que con cada generación se acerque a la cerveza perfecta y de bajo costo
 que solo un grupo de 100 expertos podrían conseguir una vez en la vida.
 
+  ---------------------------------------------------------------------------
+   Industria   Industria 2.0       Industria 3.0            Industria 4.0
+      1.0                                               
+  ------------ ------------- -------------------------- ---------------------
+   Maquinaria   Mezcladoras   Automatización basado en  Internet de las cosas
+   basada en   eléctricas de   controladores lógicos     (IoT) y computación
+     vapor         cobre         programables (PLC)          en la nube
+
+  ---------------------------------------------------------------------------
+
 ## Antecedentes
 
 La industria cervecera en los últimos 5 años ha trabajado principalmente
@@ -54,9 +64,21 @@ híbridos para tratar con este deshecho y la toxicidad de estos
 [4](https://doi.org/10.1016/j.chemosphere.2020.128367) pero no muchos se
 han enfocado en la introducción de las tecnologías de sensores y como
 muchas compañías han comenzado a automatizar sus productos de pie a la
-industria 4.0 como veremos a continuación
+industria 4.0 como veremos a continuación.
 
 ![Tablita de informacion](/assets/tabla-1.png)
+
+##Cerveza por todos lados En una época donde el alcohol es fácil de
+adquirir, no es de extrañar que el consumo de cerveza y por ende la
+producción de esta aumenten año con año, con más gente consumiendo y más
+micro cerveceras abriendo sus puertas el paso más lógico sería
+modernizar los aspectos donde se lleva más tiempo en producir y evitar
+error humano por medio de sensores y el apoyo de la computación en la
+nube para crear la mezcla perfecta y reducir los costos y deshechos de
+estos ya que también esto lleva un impacto ambiental menor en caso de
+requerir menos agua y producir aún menos aguas residuales.
+
+![Si que se consume cerveza](/assets/grafica-cerveza.png)
 
 ## Industria 4.0 y el internet de las cosas
 
@@ -116,7 +138,7 @@ de estos beneficios traídos por las nuevas tecnologías empleando, por
 ejemplo, mezclas personalizadas creadas a partir de algoritmos e
 inteligencia artificial para dar la cerveza perfecta dependiendo de la
 persona, o incluso quizás mezclas extrañas con temas frutales y amargor
-diferente, con la tecnología el cielo es el limite
+diferente, con la tecnología el cielo es el limite.
 
 ![Automatizando los procesos](/assets/automatico.jpg)
 
